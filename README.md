@@ -1,5 +1,4 @@
 # NLP-with-Python-for-Machine-Learning
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Masrik-Dahir.repoName)
 
 LinkedIn Learning
 
